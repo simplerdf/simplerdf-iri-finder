@@ -1,7 +1,7 @@
 /* global describe, it */
 
 const assert = require('assert')
-const bySubjectCount = require('../lib/bySubjectCount')
+const bySubjectCount = require('../bySubjectCount')
 const rdf = require('rdf-ext')
 const Simple = require('simplerdf-core')
 

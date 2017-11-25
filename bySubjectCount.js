@@ -1,4 +1,4 @@
-const matchingGraph = require('./matchingGraph')
+const matchingGraph = require('./lib/matchingGraph')
 
 function bySubjectCount () {
   return findBySubjectCount

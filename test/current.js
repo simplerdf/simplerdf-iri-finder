@@ -1,7 +1,7 @@
 /* global describe, it */
 
 const assert = require('assert')
-const current = require('../lib/current')
+const current = require('../current')
 const rdf = require('rdf-ext')
 const Simple = require('simplerdf-core')
 

@@ -1,4 +1,4 @@
-const matchingGraph = require('./matchingGraph')
+const matchingGraph = require('./lib/matchingGraph')
 const rdf = require('rdf-ext')
 
 const ns = {

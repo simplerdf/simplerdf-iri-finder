@@ -1,5 +1,5 @@
-const bySubjectCount = require('./lib/bySubjectCount')
-const current = require('./lib/current')
+const bySubjectCount = require('./bySubjectCount')
+const current = require('./current')
 
 class SimpleIriFinder {
   init (context, iri, graph, options) {

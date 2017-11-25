@@ -1,7 +1,7 @@
 /* global describe, it */
 
 const assert = require('assert')
-const byType = require('../lib/byType')
+const byType = require('../byType')
 const rdf = require('rdf-ext')
 const Simple = require('simplerdf-core')
 
